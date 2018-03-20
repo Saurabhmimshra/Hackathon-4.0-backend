@@ -1,0 +1,31 @@
+monument_id,feedback_msg,transit_via,arrival_time,departure_time,total_no_of_visits,average rating
+1,My trip was awesome.Thanks,car,16-03-2018 13:23:33,21-03-2018 16:23:33,400,5
+2,My trip wasn’t good at all.,bus,17-03-2018 13:23:33,22-03-2018 13:23:33,250,4
+3,Fuck you,plane,18-03-2018 13:23:33,23-03-2018 13:23:33,3156,3
+3,a,bus,19-03-2018 13:23:33,22-03-2018 13:23:33,345,2
+5,yes it was nice,car,20-03-2018 13:23:33,24-03-2018 13:23:33,3416,1
+1,nice and large monuments,car,21-03-2018 13:23:33,26-03-2018 13:23:33,54,5
+4,My trip wasn’t good at all.,bus,22-03-2018 13:23:33,27-03-2018 13:23:33,527,4
+1,My trip wasn’t good at all.,plane,23-03-2018 13:23:33,27-03-2018 13:23:33,6437,3
+5,My trip was awesome.Thanks,bus,24-03-2018 13:23:33,28-03-2018 13:23:33,5724,2
+7,My trip wasn’t good at all.,car,25-03-2018 13:23:33,29-03-2018 13:23:33,574,1
+3,My trip wasn’t good at all.,car,26-03-2018 13:23:33,30-03-2018 13:23:33,54,5
+2,My trip wasn’t good at all.,bus,27-03-2018 13:23:33,31-03-2018 13:23:33,56,4
+6,Fuck you,plane,28-03-2018 13:23:33,29-04-2018 13:23:33,235,3
+7,My trip wasn’t good at all.,bus,22-03-2018 13:23:33,20-03-2018 13:23:33,674,2
+2,My trip wasn’t good at all.,car,22-03-2018 13:23:33,22-03-2018 13:23:33,346,1
+1,My trip wasn’t good at all.,car,22-03-2018 13:23:33,18-03-2018 13:23:33,25,5
+5,Fuck you,bus,22-03-2018 13:23:33,19-03-2018 13:23:33,457,4
+7,My trip was awesome.Thanks,plane,20-03-2018 13:23:33,20-03-2018 13:23:33,53,3
+4,My trip wasn’t good at all.,bus,21-03-2018 13:23:33,21-03-2018 13:23:33,574,2
+2,My trip was awesome.Thanks,car,22-03-2018 13:23:33,22-03-2018 13:23:33,587,1
+7,My trip was awesome.Thanks,car,23-03-2018 13:23:33,23-03-2018 13:23:33,634,5
+5,My trip was awesome.Thanks,bus,24-03-2018 13:23:33,24-03-2018 13:23:33,253,4
+3,My trip was awesome.Thanks,plane,25-03-2018 13:23:33,25-03-2018 13:23:33,74,3
+2,My trip was awesome.Thanks,bus,26-03-2018 13:23:33,26-03-2018 13:23:33,587,2
+4,b,car,27-03-2018 13:23:33,27-03-2018 13:23:33,34,1
+5,My trip was awesome.Thanks,car,28-03-2018 13:23:33,28-03-2018 13:23:33,674,5
+2,My trip was awesome.Thanks,bus,16-03-2018 13:23:33,16-03-2018 13:23:33,58,4
+1,nice,plane,17-03-2018 13:23:33,17-03-2018 13:23:33,46,3
+3,My trip was awesome.Thanks,bus,18-03-2018 13:23:33,18-03-2018 13:23:33,457,2
+1,My trip was awesome.Thanks,car,19-03-2018 13:23:33,19-03-2018 13:23:33,324,1
